@@ -1,6 +1,6 @@
 AbuseIPDBtest
 
-Small script test to test my block list against the AbuseIPDB list to see if the ip is still being abused.
+Small test script to test my block list against the AbuseIPDB list to see if the ip is still being abused.
 
 Usage instructions:
 1. Extract your ipset ip list with command.
