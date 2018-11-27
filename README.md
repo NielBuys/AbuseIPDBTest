@@ -14,7 +14,7 @@ ipset save <ipset group> -file <ipset group>.ipset
 
 5. run "php test.php"
 
-Notes:
+Notes:  
 to delete not founds ips from ipset use command "php test.php -f 1"  
 to delete with zero abuseConfidenceScore ips from ipset use command "php test.php -z 1"
 
