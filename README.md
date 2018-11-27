@@ -10,7 +10,7 @@ ipset save (ipset group) -file (ipset group).ipset
 
 3. Put your AbuseIPDB API key in test.php.
 
-4. Put your <ipset group> on field "ipsetname"
+4. Put your (ipset group) on field "ipsetname"
 
 5. run "php test.php"
 
