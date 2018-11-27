@@ -2,8 +2,8 @@
 
 Small test script to test my ipset block list against the AbuseIPDB list to see if the ip is still being abused.
 
-Usage instructions:
-1. Extract your ipset ip list with command.
+Usage instructions:  
+1. Extract your ipset ip list with command.  
 ipset save <ipset group> -file <ipset group>.ipset
   
 2. Put the ipset file in same folder as the "test.php" file.
