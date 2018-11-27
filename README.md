@@ -18,5 +18,6 @@ Notes:
 to delete not founds ips from ipset use command "php test.php -f 1"  
 to delete with zero abuseConfidenceScore ips from ipset use command "php test.php -z 1"
 
+output:  
 Program will list all ips as not found if the API don't return any results.  
 And all those with Confidence Score less than 100 as found with the confidence score.
